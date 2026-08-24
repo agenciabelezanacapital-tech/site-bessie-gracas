@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Dependências / build (caso adicione ferramentas no futuro)
+node_modules/
+dist/
+.vercel/
